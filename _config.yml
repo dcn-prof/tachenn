@@ -3,7 +3,7 @@ title: Tachenn
 email: dcn.prof@gmail.com
 url: https://dcn-prof.github.io/tachenn/
 description: "Tachenn, the place to be . . ."
-keywords: "breizh, bretagne "
+keywords: "breizh, bretagne, tachenn, place"
 date: " created in 2024, still alive, going further, thinking the future . . . "
 
 entree: ""
@@ -37,23 +37,14 @@ footer:
   location: Contact us
   credits: Crédits
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-# social:
-#  - title: linkedin
-#    url: https://www.linkedin.com/in/breizhcamp-%F0%9F%92%BB-26991589/
-#  - title : linkedin
-#   url : https://www.linkedin.com/showcase/breizh-data-day
-    
+   
 
 # Credits content
-credits: 'Créé avec le générateur de site web Jekyll et le thème Freelancer.'
+# credits: 'Créé avec le générateur de site web Jekyll et le thème Freelancer.'
 
 # Build settings
 markdown: kramdown
 permalink: pretty
-collections:
-  - workshop
-  - conf
-  - orga
-  - sponsors
-  
+# collections:
+#  - workshop,   - conf,   - orga,   - sponsors
+#
