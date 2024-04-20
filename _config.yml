@@ -13,7 +13,6 @@ baseline: ""
 # Google webmaster tools
 google_verify:
 
-
 # Contact form:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
@@ -35,9 +34,7 @@ color:
 footer:
   copyright: Breizh and co
   location: Contact us
-  credits: Crédits
-
-   
+  credits: Crédits 
 
 # Credits content
 # credits: 'Créé avec le générateur de site web Jekyll et le thème Freelancer.'
